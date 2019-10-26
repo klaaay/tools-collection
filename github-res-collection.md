@@ -15,3 +15,6 @@
 
 ## 安全校验
 + https://github.com/sarneeh/reaptcha （谷歌人机校验）
+
+## UI素材
++ https://github.com/zerosoul/chinese-colors/blob/master/README.zha.md （中国传统颜色库）
