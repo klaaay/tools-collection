@@ -12,9 +12,12 @@
 + https://github.com/FullHuman/purgecss （自动删掉网页中多余 CSS 样式）
 
 
-
 ## 安全校验
 + https://github.com/sarneeh/reaptcha （谷歌人机校验）
 
 ## UI素材
 + https://github.com/zerosoul/chinese-colors/blob/master/README.zha.md （中国传统颜色库）
+
+
+## 前端埋点
++ https://github.com/airuikun/smart-tracker/ （前端简易无痕埋点）
