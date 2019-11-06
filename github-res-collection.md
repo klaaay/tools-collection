@@ -1,3 +1,17 @@
+- [可视化图库](#%e5%8f%af%e8%a7%86%e5%8c%96%e5%9b%be%e5%ba%93)
+- [动效库](#%e5%8a%a8%e6%95%88%e5%ba%93)
+- [Webpack 插件](#webpack-%e6%8f%92%e4%bb%b6)
+- [安全校验](#%e5%ae%89%e5%85%a8%e6%a0%a1%e9%aa%8c)
+- [UI素材](#ui%e7%b4%a0%e6%9d%90)
+- [前端埋点](#%e5%89%8d%e7%ab%af%e5%9f%8b%e7%82%b9)
+- [UI 素材](#ui-%e7%b4%a0%e6%9d%90)
+- [文档相关](#%e6%96%87%e6%a1%a3%e7%9b%b8%e5%85%b3)
+- [博文相关](#%e5%8d%9a%e6%96%87%e7%9b%b8%e5%85%b3)
+- [基础组件类](#%e5%9f%ba%e7%a1%80%e7%bb%84%e4%bb%b6%e7%b1%bb)
+- [React功能库](#react%e5%8a%9f%e8%83%bd%e5%ba%93)
+- [图像处理相关啊](#%e5%9b%be%e5%83%8f%e5%a4%84%e7%90%86%e7%9b%b8%e5%85%b3%e5%95%8a)
+- [微前端](#%e5%be%ae%e5%89%8d%e7%ab%af)
+
 ## 可视化图库
 
 - https://github.com/jwilber/roughViz （手绘风）
@@ -32,3 +46,15 @@
 
 ## 博文相关
 + https://github.com/timqian/chinese-independent-blogs?utm_source=gold_browser_extension （中文博客汇总）
+
+## 基础组件类
++ https://github.com/selectize/selectize.js?utm_source=gold_browser_extension (select组件-蓝色简约风)
+
+## React功能库
++ https://github.com/tannerlinsley/react-query?utm_source=gold_browser_extension （react-query react获取远程数据）
+
+## 图像处理相关啊
++ https://github.com/fabricjs/fabric.js?utm_source=gold_browser_extension （Canvas2SVG SVG2Canvas）
+
+## 微前端
++ https://github.com/umijs/qiankun （乾坤）
