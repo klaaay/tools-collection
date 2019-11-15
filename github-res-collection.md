@@ -55,6 +55,7 @@
 ## React 功能库
 
 - https://github.com/tannerlinsley/react-query?utm_source=gold_browser_extension （react-query react 获取远程数据）
+- https://github.com/remarkablemark/html-react-parser （转换 HTML to React ）
 
 ## 基础功能库
 
