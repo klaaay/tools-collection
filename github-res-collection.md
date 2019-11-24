@@ -7,7 +7,6 @@
 - [文档相关](#%e6%96%87%e6%a1%a3%e7%9b%b8%e5%85%b3)
 - [博文相关](#%e5%8d%9a%e6%96%87%e7%9b%b8%e5%85%b3)
 - [React 基础组件类](#react-%e5%9f%ba%e7%a1%80%e7%bb%84%e4%bb%b6%e7%b1%bb)
-- [基础组件类](#%e5%9f%ba%e7%a1%80%e7%bb%84%e4%bb%b6%e7%b1%bb)
 - [React 功能库](#react-%e5%8a%9f%e8%83%bd%e5%ba%93)
 - [基础功能库](#%e5%9f%ba%e7%a1%80%e5%8a%9f%e8%83%bd%e5%ba%93)
 - [图像处理相关啊](#%e5%9b%be%e5%83%8f%e5%a4%84%e7%90%86%e7%9b%b8%e5%85%b3%e5%95%8a)
@@ -30,22 +29,15 @@
 
 ## 安全校验
 
+- https://github.com/sarneeh/reaptcha （谷歌人机校验）
+
 ## UI 素材
 
 - https://github.com/zerosoul/chinese-colors/blob/master/README.zha.md （中国传统颜色库）
 
 ## 前端埋点
 
-<<<<<<< HEAD
-
 - https://github.com/airuikun/smart-tracker/ （前端简易无痕埋点）
-
-* # https://github.com/sarneeh/reaptcha （谷歌人机校验）
-  > > > > > > > 7ecd04ae0a4af9937a48d5253ec700835e0d0ffc
-
-- https://github.com/airuikun/smart-tracker/ （前端简易无痕埋点）
-
-* https://github.com/sarneeh/reaptcha （谷歌人机校验）
 
 ## 文档相关
 
@@ -60,11 +52,6 @@
 - https://github.com/selectize/selectize.js?utm_source=gold_browser_extension (select 组件-蓝色简约风)
 - https://github.com/jakezatecky/react-checkbox-tree (树状选择器)
 - https://github.com/nadbm/react-datasheet (React 表格组件)
-
-## 基础组件类
-
-- https://github.com/selectize/selectize.js?utm_source=gold_browser_extension (select 组件-蓝色简约风)
-- https://github.com/jakezatecky/react-checkbox-tree (树状选择器)
 
 ## React 功能库
 
