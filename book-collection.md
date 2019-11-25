@@ -10,7 +10,8 @@
 [前端综合面试手册](http://www.cxymsg.com/guide/#%E9%A1%B9%E7%9B%AE%E7%BB%93%E6%9E%84%E6%A6%82%E8%A7%88)
 
 ## JS
-[你不知道的JS](https://github.com/getify/You-Dont-Know-JS)
+
+[你不知道的 JS](https://github.com/getify/You-Dont-Know-JS)
 
 ## TS
 
@@ -20,10 +21,12 @@
 ## Vue
 
 ## React
-[关于React你所需知道的一切（英文）](https://vasanthk.gitbooks.io/react-bits/)
-[关于React你所需知道的一切（中文）](https://hateonion.me/books/react-bits-cn/)
+
+[关于 React 你所需知道的一切（英文）](https://vasanthk.gitbooks.io/react-bits/)
+[关于 React 你所需知道的一切（中文）](https://hateonion.me/books/react-bits-cn/)
 
 ## 正则
-[JS正则迷你书](https://github.com/qdlaoyao/js-regex-mini-book)
+
+[JS 正则迷你书](https://github.com/qdlaoyao/js-regex-mini-book)
 
 [Vue 设计及源码分析](http://hcysun.me/vue-design/zh/)
