@@ -12,6 +12,8 @@
 - [图像处理相关啊](#%e5%9b%be%e5%83%8f%e5%a4%84%e7%90%86%e7%9b%b8%e5%85%b3%e5%95%8a)
 - [微前端](#%e5%be%ae%e5%89%8d%e7%ab%af)
 - [工具库类](#%e5%b7%a5%e5%85%b7%e5%ba%93%e7%b1%bb)
+- [辅助开发工具类](#%e8%be%85%e5%8a%a9%e5%bc%80%e5%8f%91%e5%b7%a5%e5%85%b7%e7%b1%bb)
+- [规范代码](#%e8%a7%84%e8%8c%83%e4%bb%a3%e7%a0%81)
 
 ## 可视化图库
 
@@ -73,3 +75,11 @@
 ## 工具库类
 
 - https://github.com/date-fns/date-fns?utm_source=gold_browser_extension （时间处理）
+
+## 辅助开发工具类
+
+- https://github.com/avwo/whistle/blob/master/README-zh_CN.md (抓包工具)
+
+## 规范代码
+
+- https://github.com/ryanmcdermott/clean-code-javascript?utm_source=gold_browser_extension (JS 的简洁原则)
