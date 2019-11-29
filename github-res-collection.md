@@ -24,6 +24,7 @@
 ## 动效库
 
 - https://github.com/catalinmiron/react-typical （打字机效果）
+- https://martinpham.gitlab.io/react-animated-navigator/getting-started/ (不同路由之间切换的动效)
 
 ## Webpack 插件
 
@@ -59,6 +60,7 @@
 
 - https://github.com/tannerlinsley/react-query?utm_source=gold_browser_extension （react-query react 获取远程数据）
 - https://github.com/remarkablemark/html-react-parser （转换 HTML to React ）
+- https://github.com/researchgate/react-intersection-observer
 
 ## 基础功能库
 
