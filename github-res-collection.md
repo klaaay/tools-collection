@@ -45,6 +45,7 @@
 ## 文档相关
 
 - https://github.com/knsv/mermaid （类 markdown 图表生成语法）
+- https://github.com/hakimel/reveal.js （H5 PPT）
 
 ## 博文相关
 
@@ -61,6 +62,7 @@
 - https://github.com/tannerlinsley/react-query?utm_source=gold_browser_extension （react-query react 获取远程数据）
 - https://github.com/remarkablemark/html-react-parser （转换 HTML to React ）
 - https://github.com/researchgate/react-intersection-observer
+- https://github.com/bvaughn/react-virtualized (大表格和大列表的渲染)
 
 ## 基础功能库
 
