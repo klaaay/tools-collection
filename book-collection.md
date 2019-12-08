@@ -8,6 +8,7 @@
 ## 综合
 
 [前端综合面试手册](http://www.cxymsg.com/guide/#%E9%A1%B9%E7%9B%AE%E7%BB%93%E6%9E%84%E6%A6%82%E8%A7%88)
+[Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/introduction)
 
 ## JS
 
