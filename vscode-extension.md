@@ -12,3 +12,4 @@
 12. turbo console log
 13. vscode-styled-jsx
 14. auto rename tag
+15. MutiLine Tricks
