@@ -34,5 +34,3 @@
 [Vue 设计及源码分析](http://hcysun.me/vue-design/zh/)
 
 ## 算法和数据结构
-
-[javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
