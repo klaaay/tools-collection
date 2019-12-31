@@ -16,6 +16,7 @@
 - [辅助开发工具类](#%e8%be%85%e5%8a%a9%e5%bc%80%e5%8f%91%e5%b7%a5%e5%85%b7%e7%b1%bb)
 - [规范代码](#%e8%a7%84%e8%8c%83%e4%bb%a3%e7%a0%81)
 - [算法和数据结构](#%e7%ae%97%e6%b3%95%e5%92%8c%e6%95%b0%e6%8d%ae%e7%bb%93%e6%9e%84)
+- [查询手册](#%e6%9f%a5%e8%af%a2%e6%89%8b%e5%86%8c)
 - [工具](#%e5%b7%a5%e5%85%b7)
 
 ## 可视化图库
@@ -100,6 +101,10 @@
 
 - https://github.com/trekhleb/javascript-algorithms(javascript-algorithms)
 - https://github.com/algorithm-visualizer/algorithm-visualizer?utm_source=gold_browser_extension(算法可视化平台)
+
+## 查询手册
+
+- https://github.com/typescript-cheatsheets/react-typescript-cheatsheet（React TypeScript 的查询手册）
 
 ## 工具
 
