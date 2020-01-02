@@ -110,6 +110,7 @@
 ## 查询手册
 
 - https://github.com/typescript-cheatsheets/react-typescript-cheatsheet（React TypeScript 的查询手册）
+- https://github.com/ikatyang/emoji-cheat-sheet?utm_source=gold_browser_extension#table-of-contents (markdonw emoji 查询手册)
 
 ## 工具
 
