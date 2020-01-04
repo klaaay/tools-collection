@@ -76,6 +76,7 @@
 ## React 工具库
 
 - https://github.com/reactrewind/react-rewind#getting-started （useReducer 的 debug 工具）
+- https://github.com/GoogleChromeLabs/react-adaptive-hooks （提供最适合用户设备和网络限制的体验）
 
 ## 基础功能库
 
