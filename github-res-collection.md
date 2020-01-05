@@ -72,6 +72,7 @@
 ## React Hooks
 
 - https://github.com/rehooks/local-storage (localStorage)
+- https://github.com/antonioru/beautiful-react-hooks (一些 hooks 的合集)
 
 ## React 工具库
 
