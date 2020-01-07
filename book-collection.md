@@ -10,6 +10,7 @@
 
 [前端综合面试手册](http://www.cxymsg.com/guide/#%E9%A1%B9%E7%9B%AE%E7%BB%93%E6%9E%84%E6%A6%82%E8%A7%88)
 [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/introduction)
+[React 开发者指南](https://github.com/adam-golab/react-developer-roadmap/blob/master/README-CN.md)
 
 ## JS
 
@@ -26,6 +27,7 @@
 
 [关于 React 你所需知道的一切（英文）](https://vasanthk.gitbooks.io/react-bits/)
 [关于 React 你所需知道的一切（中文）](https://hateonion.me/books/react-bits-cn/)
+[React TypeScript 的查询手册](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
 
 ## 正则
 
