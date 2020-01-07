@@ -72,10 +72,12 @@
 ## React Hooks
 
 - https://github.com/rehooks/local-storage (localStorage)
+- https://github.com/antonioru/beautiful-react-hooks (一些 hooks 的合集)
 
 ## React 工具库
 
 - https://github.com/reactrewind/react-rewind#getting-started （useReducer 的 debug 工具）
+- https://github.com/GoogleChromeLabs/react-adaptive-hooks （提供最适合用户设备和网络限制的体验）
 
 ## 基础功能库
 
@@ -110,6 +112,7 @@
 ## 查询手册
 
 - https://github.com/typescript-cheatsheets/react-typescript-cheatsheet（React TypeScript 的查询手册）
+- https://github.com/ikatyang/emoji-cheat-sheet?utm_source=gold_browser_extension#table-of-contents (markdonw emoji 查询手册)
 
 ## 工具
 
