@@ -122,3 +122,4 @@
 ## 工具
 
 - https://github.com/wu-dada/baidupankey?utm_source=gold_browser_extension（查询百度网盘&蓝奏盘提取码）
+- https://github.com/star7th/showdoc?utm_source=gold_browser_extension (一个非常适合 IT 团队的在线 API 文档、技术文档工具)
