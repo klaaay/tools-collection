@@ -20,6 +20,7 @@
 - [查询手册](#%e6%9f%a5%e8%af%a2%e6%89%8b%e5%86%8c)
 - [前端优化](#%e5%89%8d%e7%ab%af%e4%bc%98%e5%8c%96)
 - [工具](#%e5%b7%a5%e5%85%b7)
+- [面试](#%e9%9d%a2%e8%af%95)
 
 ## 可视化图库
 
@@ -124,3 +125,7 @@
 
 - https://github.com/wu-dada/baidupankey?utm_source=gold_browser_extension（查询百度网盘&蓝奏盘提取码）
 - https://github.com/star7th/showdoc?utm_source=gold_browser_extension (一个非常适合 IT 团队的在线 API 文档、技术文档工具)
+
+## 面试
+
+- https://github.com/geekcompany/ResumeSample （简历）
