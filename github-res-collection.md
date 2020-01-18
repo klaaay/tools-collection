@@ -126,6 +126,7 @@
 
 - https://github.com/wu-dada/baidupankey?utm_source=gold_browser_extension（查询百度网盘&蓝奏盘提取码）
 - https://github.com/star7th/showdoc?utm_source=gold_browser_extension (一个非常适合 IT 团队的在线 API 文档、技术文档工具)
+- https://github.com/marktext/marktext?utm_source=gold_browser_extension (一个简单而优雅的 markdown 编辑器，可用于 Linux，macOS 和 Windows)
 
 ## 面试
 
