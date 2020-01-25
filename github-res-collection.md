@@ -71,12 +71,14 @@
 - https://github.com/remarkablemark/html-react-parser （转换 HTML to React ）
 - https://github.com/researchgate/react-intersection-observer
 - https://github.com/bvaughn/react-virtualized (大表格和大列表的渲染)
+- https://github.com/klendi/react-top-loading-bar/tree/master/example/src/examples (顶部 loading 条)
 
 ## React Hooks
 
 - https://github.com/rehooks/local-storage (localStorage)
 - https://github.com/antonioru/beautiful-react-hooks (一些 hooks 的合集)
 - https://github.com/pbeshai/use-query-params (优雅处理路由参数)
+- https://github.com/wellyshen/react-cool-onclickoutside (React hook 侦听组件外的单击)
 
 ## React 工具库
 
