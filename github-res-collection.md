@@ -4,7 +4,7 @@
 - [安全校验](#%e5%ae%89%e5%85%a8%e6%a0%a1%e9%aa%8c)
 - [UI 素材](#ui-%e7%b4%a0%e6%9d%90)
 - [前端埋点](#%e5%89%8d%e7%ab%af%e5%9f%8b%e7%82%b9)
-- [文档相关](#%e6%96%87%e6%a1%a3%e7%9b%b8%e5%85%b3)
+- [文档展示相关](#%e6%96%87%e6%a1%a3%e5%b1%95%e7%a4%ba%e7%9b%b8%e5%85%b3)
 - [博文相关](#%e5%8d%9a%e6%96%87%e7%9b%b8%e5%85%b3)
 - [React 基础组件类](#react-%e5%9f%ba%e7%a1%80%e7%bb%84%e4%bb%b6%e7%b1%bb)
 - [React 功能库](#react-%e5%8a%9f%e8%83%bd%e5%ba%93)
@@ -49,10 +49,11 @@
 
 - https://github.com/airuikun/smart-tracker/ （前端简易无痕埋点）
 
-## 文档相关
+## 文档展示相关
 
 - https://github.com/knsv/mermaid （类 markdown 图表生成语法）
 - https://github.com/hakimel/reveal.js （H5 PPT）
+- https://github.com/alvarotrigo/fullPage.js?utm_source=gold_browser_extension （整个页面展示的插件）
 
 ## 博文相关
 
