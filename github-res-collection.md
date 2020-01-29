@@ -27,6 +27,7 @@
 - https://github.com/jwilber/roughViz （手绘风）
 - https://github.com/toomuchdesign/react-minimal-pie-chart （简易实现的扇形图）
 - https://github.com/Mckinsey666/chart-race-react 实现柱状图交替追逐上升的效果）
+- https://github.com/jerairrest/react-chartjs-2?utm_source=gold_browser_extension (chart-js-react)
 
 ## 动效库
 
