@@ -7,7 +7,6 @@
 - [文档展示相关](#%e6%96%87%e6%a1%a3%e5%b1%95%e7%a4%ba%e7%9b%b8%e5%85%b3)
 - [博文相关](#%e5%8d%9a%e6%96%87%e7%9b%b8%e5%85%b3)
 - [React 基础组件类](#react-%e5%9f%ba%e7%a1%80%e7%bb%84%e4%bb%b6%e7%b1%bb)
-- [React 功能库](#react-%e5%8a%9f%e8%83%bd%e5%ba%93)
 - [React Hooks](#react-hooks)
 - [React 工具库](#react-%e5%b7%a5%e5%85%b7%e5%ba%93)
 - [基础功能库](#%e5%9f%ba%e7%a1%80%e5%8a%9f%e8%83%bd%e5%ba%93)
@@ -67,25 +66,24 @@
 - https://github.com/jakezatecky/react-checkbox-tree (树状选择器)
 - https://github.com/nadbm/react-datasheet (React 表格组件)
 
-## React 功能库
-
-- https://github.com/tannerlinsley/react-query?utm_source=gold_browser_extension （react-query react 获取远程数据）
-- https://github.com/remarkablemark/html-react-parser （转换 HTML to React ）
-- https://github.com/researchgate/react-intersection-observer
-- https://github.com/bvaughn/react-virtualized (大表格和大列表的渲染)
-- https://github.com/klendi/react-top-loading-bar/tree/master/example/src/examples (顶部 loading 条)
-
 ## React Hooks
 
 - https://github.com/rehooks/local-storage (localStorage)
 - https://github.com/antonioru/beautiful-react-hooks (一些 hooks 的合集)
 - https://github.com/pbeshai/use-query-params (优雅处理路由参数)
 - https://github.com/wellyshen/react-cool-onclickoutside (React hook 侦听组件外的单击)
+- https://github.com/react-spring/react-use-gesture （React 手势管理)
 
 ## React 工具库
 
 - https://github.com/reactrewind/react-rewind#getting-started （useReducer 的 debug 工具）
 - https://github.com/GoogleChromeLabs/react-adaptive-hooks （提供最适合用户设备和网络限制的体验）
+- https://github.com/tannerlinsley/react-query?utm_source=gold_browser_extension （react-query react 获取远程数据）
+- https://github.com/remarkablemark/html-react-parser （转换 HTML to React ）
+- https://github.com/researchgate/react-intersection-observer
+- https://github.com/bvaughn/react-virtualized (大表格和大列表的渲染)
+- https://github.com/klendi/react-top-loading-bar/tree/master/example/src/examples (顶部 loading 条)
+- https://github.com/mozmorris/react-webcam (显示摄像头的组件)
 
 ## 基础功能库
 
