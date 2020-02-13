@@ -84,6 +84,7 @@
 - https://github.com/bvaughn/react-virtualized (大表格和大列表的渲染)
 - https://github.com/klendi/react-top-loading-bar/tree/master/example/src/examples (顶部 loading 条)
 - https://github.com/mozmorris/react-webcam (显示摄像头的组件)
+- https://github.com/hodgef/react-simple-keyboard?1581577565112 (WEB 键盘)
 
 ## 基础功能库
 
