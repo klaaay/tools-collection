@@ -88,6 +88,7 @@
 - https://github.com/mozmorris/react-webcam (显示摄像头的组件)
 - https://github.com/diegohaz/constate (局部全局变量)
 - https://github.com/malerba118/react-particle-image （交互粒子式显示图片）
+- https://github.com/hodgef/react-simple-keyboard?1581577565112 (WEB 键盘)
 
 ## 基础功能库
 
