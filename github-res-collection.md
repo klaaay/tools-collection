@@ -18,6 +18,7 @@
 - [算法和数据结构](#%e7%ae%97%e6%b3%95%e5%92%8c%e6%95%b0%e6%8d%ae%e7%bb%93%e6%9e%84)
 - [查询手册](#%e6%9f%a5%e8%af%a2%e6%89%8b%e5%86%8c)
 - [前端优化](#%e5%89%8d%e7%ab%af%e4%bc%98%e5%8c%96)
+- [项目 CLI](#%e9%a1%b9%e7%9b%ae-cli)
 - [工具](#%e5%b7%a5%e5%85%b7)
 - [面试](#%e9%9d%a2%e8%af%95)
 
@@ -32,6 +33,7 @@
 
 - https://github.com/catalinmiron/react-typical （打字机效果）
 - https://martinpham.gitlab.io/react-animated-navigator/getting-started/ (不同路由之间切换的动效)
+- https://github.com/pedrobern/react-tiger-transition （不同路由之间切换的动效）
 
 ## Webpack 插件
 
@@ -84,6 +86,8 @@
 - https://github.com/bvaughn/react-virtualized (大表格和大列表的渲染)
 - https://github.com/klendi/react-top-loading-bar/tree/master/example/src/examples (顶部 loading 条)
 - https://github.com/mozmorris/react-webcam (显示摄像头的组件)
+- https://github.com/diegohaz/constate (局部全局变量)
+- https://github.com/malerba118/react-particle-image （交互粒子式显示图片）
 
 ## 基础功能库
 
@@ -123,6 +127,10 @@
 ## 前端优化
 
 - https://github.com/Paul-Browne/lazyestload.js (图片懒加载)
+
+## 项目 CLI
+
+- https://github.com/transitive-bullshit/create-react-library?utm_source=gold_browser_extension (用于轻松创建可重用的 react 库)
 
 ## 工具
 
