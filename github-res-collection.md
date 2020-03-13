@@ -67,6 +67,7 @@
 - https://github.com/selectize/selectize.js?utm_source=gold_browser_extension (select 组件-蓝色简约风)
 - https://github.com/jakezatecky/react-checkbox-tree (树状选择器)
 - https://github.com/nadbm/react-datasheet (React 表格组件)
+- https://github.com/buildo/react-placeholder (react 占位图)
 
 ## React Hooks
 
@@ -89,10 +90,12 @@
 - https://github.com/diegohaz/constate (局部全局变量)
 - https://github.com/malerba118/react-particle-image （交互粒子式显示图片）
 - https://github.com/hodgef/react-simple-keyboard?1581577565112 (WEB 键盘)
+- https://github.com/nickjanssen/react-curved-arrow/ (页面显示一个好看的箭头)
 
 ## 基础功能库
 
 - https://github.com/jonschlinkert/dashify （转换驼峰）
+- https://github.com/bvaughn/react-highlight-words (高亮词语)
 
 ## 图像处理相关啊
 
