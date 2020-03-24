@@ -101,6 +101,7 @@
 
 - https://github.com/fabricjs/fabric.js?utm_source=gold_browser_extension （Canvas2SVG SVG2Canvas）
 - https://github.com/fengyuanchen/cropperjs (图片剪切处理以及其他图片操作相关)
+- https://github.com/chrvadala/react-svg-pan-zoom (向 SVG 添加平移和缩放功能的 React 组件)
 
 ## 微前端
 
