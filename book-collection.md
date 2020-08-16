@@ -1,11 +1,11 @@
-- [综合](#%e7%bb%bc%e5%90%88)
+- [综合](#综合)
 - [JS](#js)
 - [TS](#ts)
 - [Vue](#vue)
 - [React](#react)
-- [正则](#%e6%ad%a3%e5%88%99)
+- [正则](#正则)
 - [CSS](#css)
-- [算法和数据结构](#%e7%ae%97%e6%b3%95%e5%92%8c%e6%95%b0%e6%8d%ae%e7%bb%93%e6%9e%84)
+- [算法和数据结构](#算法和数据结构)
 
 ## 综合
 
@@ -29,6 +29,7 @@
 [关于 React 你所需知道的一切（英文）](https://vasanthk.gitbooks.io/react-bits/)
 [关于 React 你所需知道的一切（中文）](https://hateonion.me/books/react-bits-cn/)
 [React TypeScript 的查询手册](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
+[React 技术揭秘](https://react.iamkasong.com/preparation/idea.html#%E7%90%86%E8%A7%A3-%E9%80%9F%E5%BA%A6%E5%BF%AB)
 
 ## 正则
 
